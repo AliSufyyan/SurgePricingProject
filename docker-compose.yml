@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   pyspark:
     image: jupyter/pyspark-notebook:latest
@@ -30,11 +28,12 @@ services:
       timeout: 5s
       retries: 5
 
-    kafka:
+  kafka:
     image: confluentinc/cp-kafka:7.4.0
     container_name: kafka
     depends_on:
-      - zookeeper
+      zookeeper:
+        condition: service_healthy
     ports:
       - "9092:9092"
     environment:
