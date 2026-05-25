@@ -1,0 +1,15 @@
+
+data/yellow_tripdata.csv
+data/surge_model/
+data/taxi_features/
+
+
+__pycache__/
+*.pyc
+*.pycache
+
+
+.vscode/
+
+
+.ipynb_checkpoints/
