@@ -5,3 +5,6 @@ scikit-learn
 matplotlib
 pillow
 seaborn
+xgboost
+plotly
+joblib
