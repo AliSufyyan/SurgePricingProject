@@ -205,7 +205,7 @@ docker-compose up
 |------|------|---------|
 | **Ahmad Munir Sheikh** | Data Engineer — Kafka, PySpark Batch, Docker | [Profile](https://www.linkedin.com/in/ahmad-munir-sheikh-686b7a365/) |
 | **Ali Akbar** | ML Engineer — Random Forest, Spark Streaming | [Profile](https://www.linkedin.com/in/ali-akbar-39117b314/) |
-| **Ali Sufyaan** | Frontend & Visualization — Dashboard, Charts, Deployment | [Profile](https://www.linkedin.com/in/alisufyaan/) |
+| **Ali Sufyaan** | Frontend & Visualization — Dashboard, Charts, Deployment | [Profile](https://www.linkedin.com/in/alisufyyan/) |
 
 ---
 
